@@ -1,0 +1,54 @@
+
+/*HEADER E NAVBAR*/
+
+
+  .site-header{
+    background-color: #3E3D69;
+    
+    
+    }
+    
+  .logo{
+     margin-top: 50px;
+    
+    }
+
+.fundo{
+margin-top: 150px;
+width: 70%;
+margin-left: auto;
+margin-right: auto;
+padding: 3%; 
+font-size: 1.2em; 
+
+
+}
+
+
+/*Borda do fundo*/
+.fundo{
+
+   border: 2px solid #A2DAD6;
+   border-radius: 12px;
+   padding: 5px;
+  }
+
+  /*Formatação das imgs*/
+
+  .imagens{
+
+    border: 2px solid #A2DAD6;
+    border-radius: 12px;
+    padding: 2px;
+
+  }
+
+  /*TÍTULOS*/
+
+
+  /*Autor*/
+  .autor {
+    color: rgb(158, 156, 156);
+  }
+
+
