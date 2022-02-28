@@ -5,8 +5,12 @@
   .site-header{
     background-color: #3E3D69;
     
-    
     }
+  .fundo-gradient{
+    background:linear-gradient(55deg, #317CDE,#2B4FAB);
+
+
+  }
     
   .logo{
      margin-top: 50px;
@@ -51,4 +55,12 @@ font-size: 1.2em;
     color: rgb(158, 156, 156);
   }
 
+  /*FONT*/
+
+  p{
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+  }
 
